@@ -51,12 +51,6 @@ Here's how to use the software:
 ## Examples
 Refer to the `examples/` directory for Jupyter notebooks demonstrating various use cases of this project.
 
-## Contributing
-Contributions are welcome! Please read our [contributing guidelines](CONTRIBUTING.md) for more details on how to get started.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Acknowledgements
 - [PyTorch](https://pytorch.org/)
 - [NeuralProphet](https://github.com/ourownstory/neuralprophet)
